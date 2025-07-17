@@ -1,0 +1,16 @@
+. O que é Programação Orientada a Objetos? Qual a sua utilidade?
+    Programação Orientada a Objetos (POO) é a maneira de arquitetar/construir um código através da criação de classes para fácil reutilização, manutenção e organização de código.
+
+
+. O que é uma classe?
+    É um bloco de código reutilizável para armazenar diferentes propriedades e métodos que servem como um molde para diferentes objetos.
+
+. O que são propriedades e métodos de uma classe?
+    Propriedades são os dados que são armazenados para diferentes objetos que utilizam uma classe;
+    Métodos são como funções, eles são comportamentos dentro de um bloco de código que os objetos podem utilizar.
+
+. Qual a diferença de Instância e de Objeto?
+    Instância é o ato de criar um objeto, a linha de código que está construindo um novo objeto, já o objeto em si é  um conjunto de dados baseados na classe, de forma análoga, é uma variável mais poderosa.
+
+. Qual a diferença de um método que tem retorno e que não tem retorno?
+    Métodos com retorno servem para entregar um resultado especificado, já métodos sem retorno são geralmente sados para modificar algo do objeto (como uma propriedade). 
