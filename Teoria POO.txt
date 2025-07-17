@@ -1,0 +1,3 @@
+Conceito: É um modelo de estruturar código que o torna organizado e reutilizável, evitando repetições desnecessárias.
+
+POO gira em torno de classes, que funcionam como "moldes" de código: entidades que armazenam dados proprriedades e comportamentos. Esses moldes podem ser reutilizados com diferentes dados, e as entidades criadas por ele podem executar automaticamente os comportamentos da classe.
